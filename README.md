@@ -30,12 +30,11 @@ I'm an aspiring developer, currently in the early stages of my coding journey. A
 <br />
 
 ---
+
 <details>
 <summary><h2>👨‍💻 Coleman's Coding Journey</h2>
-
 ### 🔭 What I'm Currently Working On
 Building my portfolio using HTML, CSS, Bootstrap and Javascript to document my "Teaching myself how to code journey."
-
 ### 📚 What I’m Learning at the Moment
   - HTML: The foundation of web development, learning to structure web pages.
   - CSS: Styling web pages and creating visually appealing designs.
@@ -45,23 +44,18 @@ Building my portfolio using HTML, CSS, Bootstrap and Javascript to document my "
   - React: Diving into this popular JavaScript library for building user interfaces.
   - Git: Mastering version control to collaborate effectively and manage code projects.
   - Linux: Familiarizing myself with the Linux operating system and its command-line tools.	
----
 ### ✈️ The Path I’m Taking
 I’m determined to teach myself by leveraging the abundant resources available in this digital age:
   • YouTube Tutorials
   • Web Articles
   • Online Courses & Bootcamps
   • Documentation and Guides	
-
----
-
 ### 🎯 The Ultimate Goal
 My ultimate goals are to:
   - Master frontend development with modern frameworks and libraries.
   - Gain proficiency in Linux systems administration.
   - Create innovative and user-friendly web applications.
   - Contribute to open source projects.	
----
 <!--
 ### 🧰 Tools and Technologies
   • Frontend: HTML, CSS, JavaScript, React, Bootstrap
@@ -69,7 +63,6 @@ My ultimate goals are to:
   • Version Control: Git
   • Operating Systems: Linux
 -->
-
 ### 🔬 Projects I’m Working On
   - Project 1: A brief description of this project.
   - Project 2: A brief description of this project.
