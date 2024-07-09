@@ -67,8 +67,6 @@ My ultimate goals are to:
   - Version Control: Git
   - Operating Systems: Linux
 -->
-
----
 ### 🔬 Projects I’m Working On
   - Project 1: A brief description of this project.
   - Project 2: A brief description of this project.
