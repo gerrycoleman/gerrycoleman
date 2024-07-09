@@ -29,12 +29,11 @@ I'm an aspiring developer, currently in the early stages of my coding journey. A
 <br />
 
 ---
-
-### 🔭 What I'm Currently Working On</h3>
-<br>
+### 🔭 What I'm Currently Working On
 Building my portfolio using HTML, CSS, Bootstrap and Javascript to document my "Teaching myself how to code journey."
-<br>
-<h3>📚 What I’m Learning at the Moment</h3>
+
+---
+### 📚 What I’m Learning at the Moment</h3>
   - HTML: The foundation of web development, learning to structure web pages.
   - CSS: Styling web pages and creating visually appealing designs.
   - JavaScript: Enhancing web pages with interactivity and dynamic functionality.
@@ -43,24 +42,24 @@ Building my portfolio using HTML, CSS, Bootstrap and Javascript to document my "
   - React: Diving into this popular JavaScript library for building user interfaces.
   - Git: Mastering version control to collaborate effectively and manage code projects.
   - Linux: Familiarizing myself with the Linux operating system and its command-line tools.
- <br> 
+
 ---
-<h3>✈️ The Path I’m Taking</h3>
-<br>
+### ✈️ The Path I’m Taking
 I’m determined to teach myself by leveraging the abundant resources available in this digital age:
   - YouTube Tutorials
   - Web Articles
   - Online Courses & Bootcamps
   - Documentation and Guides
-<br>
-<h3>🎯 The Ultimate Goal</h3>
-<br>
+
+---
+### 🎯 The Ultimate Goal
 My ultimate goals are to:
   - Master frontend development with modern frameworks and libraries.
   - Gain proficiency in Linux systems administration.
   - Create innovative and user-friendly web applications.
   - Contribute to open source projects.	
 
+---
 <!--
 ### 🧰 Tools and Technologies
   - Frontend: HTML, CSS, JavaScript, React, Bootstrap
@@ -68,10 +67,8 @@ My ultimate goals are to:
   - Version Control: Git
   - Operating Systems: Linux
 -->
-<br>
----
-#
 
+---
 ### 🔬 Projects I’m Working On
   - Project 1: A brief description of this project.
   - Project 2: A brief description of this project.
