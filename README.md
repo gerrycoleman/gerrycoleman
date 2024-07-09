@@ -30,12 +30,7 @@ I'm an aspiring developer, currently in the early stages of my coding journey. A
 
 ---
 
-#
-
-<details>
-<summary><h2>👨‍💻 Coleman's Coding Journey</h2>
-<br>
-<p><h3>🔭 What I'm Currently Working On</h3>
+### 🔭 What I'm Currently Working On</h3>
 <br>
 Building my portfolio using HTML, CSS, Bootstrap and Javascript to document my "Teaching myself how to code journey."
 <br>
