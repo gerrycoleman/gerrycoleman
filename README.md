@@ -1,6 +1,6 @@
 # 🏄‍♂️ Gerry Coleman
 
-**`Newbie Developer Teaching Myself How to Code!`**
+**`Newbie Developer Teaching Himself How to Code!`**
 
 I'm an aspiring developer, currently in the early stages of my coding journey. As I teach myself how to code, the ultimate goal is to become a proficient frontend web developer and a skilled Linux systems administrator.
 
