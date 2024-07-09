@@ -9,8 +9,7 @@ I'm an aspiring developer, currently in the early stages of my coding journey. A
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gerrycoleman?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/gerrycoleman??tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/gerrycoleman??color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-   
+   </p>   
 ---
 
 ### 🧰 Languages and Tools
@@ -30,17 +29,12 @@ I'm an aspiring developer, currently in the early stages of my coding journey. A
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <br />
 
-### 📊 Stats
+---
 
-![Coleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerrycoleman&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=gerrycoleman&theme=gruvbox&border_radius=4.5) -->
-
-#
-<!--
 <details>
- <summary><h3>👨‍💻 Coleman's Coding Journey</h3></summary>
- ### 🔭 What I'm Currently Working On
+ <summary><h2>👨‍💻 Coleman's Coding Journey</h2>
+
+### 🔭 What I'm Currently Working On
 Building my portfolio using HTML, CSS, Bootstrap and Javascript to document my "Teaching myself how to code journey."
 
 ### 📚 What I’m Learning at the Moment
@@ -52,6 +46,8 @@ Building my portfolio using HTML, CSS, Bootstrap and Javascript to document my "
 	- React: Diving into this popular JavaScript library for building user interfaces.
 	- Git: Mastering version control to collaborate effectively and manage code projects.
 	- Linux: Familiarizing myself with the Linux operating system and its command-line tools.
+	
+---
 
 ### ✈️ The Path I’m Taking
 I’m determined to teach myself by leveraging the abundant resources available in this digital age:
@@ -59,6 +55,8 @@ I’m determined to teach myself by leveraging the abundant resources available 
 	- Web Articles
 	- Online Courses
 	- Documentation and Guides
+	
+---
 
 ### 🎯 The Ultimate Goal
 My ultimate goals are to:
@@ -66,19 +64,36 @@ My ultimate goals are to:
 	- Gain proficiency in Linux systems administration.
 	- Create innovative and user-friendly web applications.
 	- Contribute to open source projects.
+	
+---
 
+<!--
 ### 🧰 Tools and Technologies
 	•	Frontend: HTML, CSS, JavaScript, React, Bootstrap
 	•	Backend: Node.js
 	•	Version Control: Git
 	•	Operating Systems: Linux
+-->
 
 ### 🔬 Projects I’m Working On
 	•	Project 1: A brief description of this project.
 	•	Project 2: A brief description of this project.
+</summary>
  
+---
+
+### 📊 Stats
+
+![Coleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerrycoleman&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gerrycoleman&theme=gruvbox&border_radius=4.5)
+
+---
+
 ### 🔗 Connect with Me
 I’m eager to connect with like-minded individuals and learn from others’ experiences. Feel free to reach out to me on LinkedIn or Twitter to discuss coding, share insights, or collaborate on projects.
--->
+
+---
+
 ### 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gerrycolemann@outlook.com)
