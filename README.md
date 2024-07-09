@@ -70,8 +70,7 @@ My ultimate goals are to:
 ### 🔬 Projects I’m Working On
   - Project 1: A brief description of this project.
   - Project 2: A brief description of this project.
-</p></summary> 
----
+</p></summary>
 
 ### 📊 Stats
 
