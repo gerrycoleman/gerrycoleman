@@ -9,11 +9,10 @@ I'm an aspiring developer, currently in the early stages of my coding journey. A
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gerrycoleman?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/gerrycoleman??tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/gerrycoleman??color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>   
+   </p>
 ---
 
 ### 🧰 Languages and Tools
-
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -27,11 +26,12 @@ I'm an aspiring developer, currently in the early stages of my coding journey. A
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<br/>
+<br />
+
 ---
 
 #
-<!--
+
 <details>
 <summary><h2>👨‍💻 Coleman's Coding Journey</h2>
 <br>
@@ -65,6 +65,7 @@ My ultimate goals are to:
   - Gain proficiency in Linux systems administration.
   - Create innovative and user-friendly web applications.
   - Contribute to open source projects.	
+
 <!--
 ### 🧰 Tools and Technologies
   - Frontend: HTML, CSS, JavaScript, React, Bootstrap
@@ -73,11 +74,15 @@ My ultimate goals are to:
   - Operating Systems: Linux
 -->
 <br>
+---
+#
+
 ### 🔬 Projects I’m Working On
   - Project 1: A brief description of this project.
   - Project 2: A brief description of this project.
 </p></summary> 
 ---
+
 ### 📊 Stats
 
 ![Coleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerrycoleman&show_icons=true&theme=gruvbox)
