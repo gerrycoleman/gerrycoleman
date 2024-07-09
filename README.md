@@ -10,8 +10,8 @@ I'm an aspiring developer, currently in the early stages of my coding journey. A
       <a href="https://github.com/gerrycoleman??tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/gerrycoleman??color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+   
 ---
-
 ### 🧰 Languages and Tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -72,6 +72,7 @@ My ultimate goals are to:
   - Project 2: A brief description of this project.
 </p></summary>
 
+---
 ### 📊 Stats
 
 ![Coleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerrycoleman&show_icons=true&theme=gruvbox)
