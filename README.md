@@ -33,8 +33,11 @@ I'm an aspiring developer, currently in the early stages of my coding journey. A
 
 <details>
 <summary><h2>👨‍💻 Coleman's Coding Journey</h2>
-### 🔭 What I'm Currently Working On
+<br>
+<p><h3>🔭 What I'm Currently Working On</h3>
 Building my portfolio using HTML, CSS, Bootstrap and Javascript to document my "Teaching myself how to code journey."
+</p>
+
 ### 📚 What I’m Learning at the Moment
   - HTML: The foundation of web development, learning to structure web pages.
   - CSS: Styling web pages and creating visually appealing designs.
